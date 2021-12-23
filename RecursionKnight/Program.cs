@@ -50,12 +50,13 @@ namespace RecursionKnight
 
             bool SolveKtUtility(int x, int y, int moveCount) //recursive method
             {
+                //every time this method is called we increment our counter
                 attemptedMoves++;
                 if (attemptedMoves % 1000000 == 0) //print message only if method was tried 1,000,000 times, method has been called a million times
                 {
                     Console.WriteLine($"Attempted moves: {attemptedMoves}");
                 }
-                int k; //counter for moving through the nextX and nextY  arrays  (move possibilities), the knights possibel move
+                int k; //counter for moving through the nextX and nextY  arrays  (move possibilities), the knights possible move
                 int next_x, next_y; //location for next move in recursion
 
                 //check to see if we have solved the game
@@ -79,7 +80,7 @@ namespace RecursionKnight
                     }
                   
                 }
-                return false;
+                return false; //the attempted move doesn't work and we try the next possible solution
             }
             //checks if the next move is still on the board
             bool safeSquare(int x, int y)

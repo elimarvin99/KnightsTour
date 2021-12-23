@@ -1,0 +1,16 @@
+C:\Users\elima\Assorted C# Files\RecursionKnight\RecursionKnight\bin\Debug\net5.0\RecursionKnight.exe
+C:\Users\elima\Assorted C# Files\RecursionKnight\RecursionKnight\bin\Debug\net5.0\RecursionKnight.deps.json
+C:\Users\elima\Assorted C# Files\RecursionKnight\RecursionKnight\bin\Debug\net5.0\RecursionKnight.runtimeconfig.json
+C:\Users\elima\Assorted C# Files\RecursionKnight\RecursionKnight\bin\Debug\net5.0\RecursionKnight.runtimeconfig.dev.json
+C:\Users\elima\Assorted C# Files\RecursionKnight\RecursionKnight\bin\Debug\net5.0\RecursionKnight.dll
+C:\Users\elima\Assorted C# Files\RecursionKnight\RecursionKnight\bin\Debug\net5.0\ref\RecursionKnight.dll
+C:\Users\elima\Assorted C# Files\RecursionKnight\RecursionKnight\bin\Debug\net5.0\RecursionKnight.pdb
+C:\Users\elima\Assorted C# Files\RecursionKnight\RecursionKnight\obj\Debug\net5.0\RecursionKnight.csproj.AssemblyReference.cache
+C:\Users\elima\Assorted C# Files\RecursionKnight\RecursionKnight\obj\Debug\net5.0\RecursionKnight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elima\Assorted C# Files\RecursionKnight\RecursionKnight\obj\Debug\net5.0\RecursionKnight.AssemblyInfoInputs.cache
+C:\Users\elima\Assorted C# Files\RecursionKnight\RecursionKnight\obj\Debug\net5.0\RecursionKnight.AssemblyInfo.cs
+C:\Users\elima\Assorted C# Files\RecursionKnight\RecursionKnight\obj\Debug\net5.0\RecursionKnight.csproj.CoreCompileInputs.cache
+C:\Users\elima\Assorted C# Files\RecursionKnight\RecursionKnight\obj\Debug\net5.0\RecursionKnight.dll
+C:\Users\elima\Assorted C# Files\RecursionKnight\RecursionKnight\obj\Debug\net5.0\ref\RecursionKnight.dll
+C:\Users\elima\Assorted C# Files\RecursionKnight\RecursionKnight\obj\Debug\net5.0\RecursionKnight.pdb
+C:\Users\elima\Assorted C# Files\RecursionKnight\RecursionKnight\obj\Debug\net5.0\RecursionKnight.genruntimeconfig.cache
